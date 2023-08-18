@@ -1,5 +1,3 @@
-<<<<<<< HEAD:README.md test..
-
 <div align="center">
   
 # Daniel Negreanu Masterclass Ad
