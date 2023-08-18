@@ -2,7 +2,7 @@
   
 # Daniel Negreanu Masterclass Ad
 
-## Pop-Up Advertisement Modal on scroll
+Pop-Up Advertisement Modal on scroll
 
 </div>
 
