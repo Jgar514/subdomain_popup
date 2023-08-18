@@ -2,9 +2,9 @@
 
 <div align="center">
   
-Daniel Negreanu Masterclass Ad
+# Daniel Negreanu Masterclass Ad
 
-Pop-Up Advertisement Modal on scroll
+## Pop-Up Advertisement Modal on scroll
 
 </div>
 
