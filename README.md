@@ -2,9 +2,9 @@
 
 <div align="center">
   
-My _Markdown_ text.
+Daniel Negreanu Masterclass Ad
 
-More text.
+Pop-Up Advertisement Modal on scroll
 
 </div>
 
