@@ -15,22 +15,14 @@
 ## Pop-up with skip button once 5 second timer finishes
 
 ```
-
-
 let remainingTime = 5;
 let allowedToSkip = false;
 let popupTimer;
-
-
-
 ```
 
 ## Pop-up appears on scroll event
 
 ```
-
-
-
 const startTimer = () => {
 	if (window.scrollY > 100) {
 		showAd();
