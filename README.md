@@ -2,8 +2,6 @@
   
 # Daniel Negreanu Masterclass Ad
 
-## Pop-up with skip button once 5 second timer finishes
-
 ![Alt text](https://github.com/Jgar514/subdomain_popup/blob/main/biggergifpopup.gif)
 
 <!-- <img width="400" alt="Screenshot 2023-07-02 at 12 05 25 AM" src="https://github.com/Jgar514/subdomain_popup/blob/main/popup.gif"> -->
@@ -14,8 +12,10 @@
 
 </div>
 
+## Pop-up with skip button once 5 second timer finishes
+
 ```
-yaml
+
 
 let remainingTime = 5;
 let allowedToSkip = false;
@@ -25,10 +25,10 @@ let popupTimer;
 
 ```
 
-Pop-up appears on scroll event
+## Pop-up appears on scroll event
 
 ```
- yaml
+
 
 
 const startTimer = () => {
