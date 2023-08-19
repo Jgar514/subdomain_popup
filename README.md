@@ -2,7 +2,32 @@
   
 # Daniel Negreanu Masterclass Ad
 
-Pop-Up Advertisement Modal on scroll
+## Pop-up with skip button once 5 second timer finishes
+
+```
+yaml
+
+let remainingTime = 5;
+let allowedToSkip = false;
+let popupTimer;
+
+
+
+```
+
+Pop-up appears on scroll event
+
+```
+ yaml
+
+
+const startTimer = () => {
+	if (window.scrollY > 100) {
+		showAd();
+		window.removeEventListener("scroll", startTimer);
+	}
+};
+```
 
 ![Alt text](https://github.com/Jgar514/subdomain_popup/blob/main/biggergifpopup.gif)
 
